@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  DistanceConverter
 //
-//  Created by Chris Price on 12/16/19.
+//  Created by Chris Price on 12/17/19.
 //  Copyright © 2019 Chris Price. All rights reserved.
 //
 
